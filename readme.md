@@ -6,10 +6,9 @@
 
 This project is a clone of the landing page for the payment gateway service Razorpay, built using HTML and Tailwind CSS. The clone includes animations and is designed to look exactly like the original landing page.
 
-## 🌐 Project Demo
+## 🌐 Project Demo 
 
-To see a live demo of the project, please visit: https://yashmishrarazorpay.netlify.app/
-
+To see a live demo of the project, please visit:https://yashmishrarazorpay.netlify.app/
 
 ## 🖐🏻 Note on File Structure
 
