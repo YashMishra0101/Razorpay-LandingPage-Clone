@@ -1,5 +1,4 @@
-
-# 🚀 Razorpay-LandingPage-Clone
+#  Razorpay-LandingPage-Clone
 
 <img src="./Screenshot 1.png">
 <img src="./Screenshot 2.png">
@@ -10,6 +9,10 @@ This project is a clone of the landing page for the payment gateway service Razo
 ## 🌐 Live Demo
 
 You can see a live demo of the project at https://yashmishrarazorpay.netlify.app/
+
+## 🖐🏻 Note on File Structure
+
+Please note that this is my first big project using Tailwind CSS and the file structure may not be optimal.
 
 ## 🛠️ Installation
 
@@ -23,10 +26,10 @@ git clone https://github.com/YashMishra0101/Razorpay-LandingPage-Clone
 -   Note: This project uses Tailwind CSS, so you need to run npm start to compile the CSS files before opening the HTML file in your browser.
 
 -   To run the project locally, navigate to the project directory in your terminal and run the following command:
-    
 ```
 npm start
 ```
+    
 
 ## 🚀 Features
 
@@ -36,16 +39,7 @@ npm start
 
 ## 👥 Contributing
 
-Contributions to this project are welcome! If you find a bug or would like to suggest an improvement, please open a new issue or create a pull request.
-
-## 📞 Contact
-
-If you have any questions or suggestions, feel free to reach out to me on LinkedIn or Twitter:
-
-## Contributing 🤝
-
 If you would like to contribute to in this , please open an issue or submit a pull request. All contributions are welcome!
-
 
 ## Contact 📞
 
