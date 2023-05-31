@@ -1,8 +1,7 @@
 #  Razorpay-LandingPage-Clone
-
-<img src="./Screenshot 1.png">
-<img src="./Screenshot 2.png">
-<img src="./Screenshot 3.png">
+![Screenshot](./Screenshot%201.png)
+![Screenshot](./Screenshot%202.png)
+![Screenshot](./Screenshot%203.png)
 
 This project is a clone of the landing page for the payment gateway service Razorpay, built using HTML and Tailwind CSS. The clone includes animations and is designed to look exactly like the original landing page.
 
